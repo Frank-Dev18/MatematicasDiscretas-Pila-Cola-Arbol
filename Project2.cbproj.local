@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/10 10:37:20.000.973,=C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2020/06/10 10:37:24.000.098,=C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2020/06/10 14:50:03.000.331,C:\Users\Francisco\Documents\Embarcadero\Studio\pj\Unit2.h=C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2020/06/10 14:50:03.000.331,C:\Users\Francisco\Documents\Embarcadero\Studio\pj\Unit2.cpp=C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2020/06/10 14:50:03.000.331,C:\Users\Francisco\Documents\Embarcadero\Studio\pj\Unit2.dfm=C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020/06/10 14:52:07.000.799,C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\Francisco\Documents\Embarcadero\Studio\pj\Unit2.cpp</Transaction>
+    <Transaction>2020/06/10 14:52:07.000.799,C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Francisco\Documents\Embarcadero\Studio\pj\Unit2.dfm</Transaction>
+    <Transaction>2020/06/10 14:52:07.000.799,C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\Francisco\Documents\Embarcadero\Studio\pj\Unit2.h</Transaction>
+    <Transaction>2020/06/10 14:52:46.000.037,C:\Users\Francisco\Documents\Embarcadero\Studio\Nueva carpeta\Unit2.h=C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2020/06/10 14:52:51.000.504,C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
